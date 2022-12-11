@@ -135,7 +135,6 @@
 										$candidate = '';
 
 									}	
-
 				        		?>
 				        		<div class="text-center">
 					        		<button type="button" class="btn btn-success btn-flat" id="preview"><i class="fa fa-file-text"></i> Preview</button> 
